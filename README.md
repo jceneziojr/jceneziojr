@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an Undergraduate Student in Electrical Engineering (UFSJ). Member of Control and Modelling Group (GCOM).<br><br>Interested on working with mathematical models, system identification, graphical user interfaces, educational games, signal analysis and the development of multiporpose tools.<br><br>Check SysIdentPyGUI: <br><br>[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sysidentpygui.streamlit.app/)</p>
+<p align="left">I'm an Undergraduate Student in Electrical Engineering (UFSJ). Member of Control and Modelling Group (GCOM).<br><br>Interested on working with mathematical models, system identification, graphical user interfaces, educational games, signal analysis and the development of multiporpose tools.<br><br>Check SysIdentPyGUI: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sysidentpygui.streamlit.app/) </p>
 
 ###
 
