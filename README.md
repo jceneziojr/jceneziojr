@@ -6,11 +6,7 @@
 
 ###
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/107365800?s=400&u=e67734d31ef7764bd82a7ea9cf1b4a5abe8fd6ad&v=4"  />
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jceneziojr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jceneziojr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
